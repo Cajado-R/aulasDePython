@@ -1,3 +1,3 @@
-#Aulas de Python
+# Aulas de Python
 
-###ministradas pelo professor Gustavo Guanabara no Curso em Vídeo.
+### ministradas pelo professor Gustavo Guanabara no Curso em Vídeo.
