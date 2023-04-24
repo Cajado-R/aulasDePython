@@ -2,3 +2,7 @@
 LICENSE
 main.py
 .idea
+.idea/workspace.xml
+*.xml
+*.xml
+testes-pessoais/ARQUIVO_DE_TESTES.py

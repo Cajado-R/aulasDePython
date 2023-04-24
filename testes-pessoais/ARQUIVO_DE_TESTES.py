@@ -1,11 +1,12 @@
+salario = float(input('Valor a Receber: R$ '))
 
-excesso = 0.0
-while True:
-    pesoDoPeixe = float(input('Peso: '))
-    if pesoDoPeixe < 50:
-        print(f'O peso do peixe não excedeu 50KG, o peso do seu peixe é: {pesoDoPeixe}KG')
-        break
-    else:
-        excesso = (pesoDoPeixe - 50.0) * 4.00
-        print(f'O valor a pagar será de: R${excesso}')
-        break
+impostoDeRenda = 0.11 * salario
+inss = 0.08 * salario
+sindicato = 0.05 * salario
+descontos = impostoDeRenda + inss + sindicato
+salarioLiquido = salario - descontos
+print(f'Salario Bruto R${salario:.2f} \n'
+      f'- IR R${impostoDeRenda :.2f} \n'
+      f'- INSS R${inss :.2f} \n'
+      f'- Sindicato R${sindicato :.2f} \n'
+      f'+ Salario Liquido R${salarioLiquido :.2f}')
