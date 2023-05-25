@@ -13,7 +13,7 @@ cyan = "\033[1;36;40m"
 #adendos adicionados para que a pessoa utilize no computador e obtenha a melhor experiência possível.
 print('PS. Aqui na plataforma Repl eu não consigo passar a experiência exatamente como gostaria para você... \n'
       'isso ocorre devido à algumas funções que por algum motivo a plataforma não executa, por exemplo o sleep,\n'
-      'ao executar a função sleep eu conseguiria te passar o texto "epico" gradativamente porém aqui ele salta na sua tela \n'
+      'ao executar a função sleep eu conseguiria te passar o texto.txt "epico" gradativamente porém aqui ele salta na sua tela \n'
       'caso queira ter a experiência completa: \n'
       'não se preocupe não há virus no link. É o mesmo código, caso tenha qualquer duvída pode me perguntar no email: claudiocajado@outlook.com.br\n'
       'a proposito meu nome é cláudio tenho 25 anos e sou estudante de programação (ADS - ESTÁCIO) Espero que se divirta jogando o meu joguinho tanto quanto\n'

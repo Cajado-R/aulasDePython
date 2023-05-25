@@ -1,5 +1,7 @@
 #código do RPG (lembrar de rever)
 
+#NECESSITA CORREÇÃO GERAL
+
 import emoji
 from time import sleep
 #import random
